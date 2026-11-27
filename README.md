@@ -32,7 +32,7 @@ Standard street lights waste electricity by staying at full brightness all night
 * **Battery Storage:** Add a Lithium-Ion battery pack, charge controller (`TP4056`), and 5V boost converter so the street light runs fully off stored solar power.
 
 ## Demo Video & Prototype Photos
-* **Video Demonstration:** [Watch Prototype Demo on Google Drive](https://drive.google.com/file/d/1q0o4LLZf01sJOBLILDTHwTlrll4aKvtK/view?usp=sharing)
+* **Video Demonstration:** [Watch Prototype Demo on Google Drive](https://drive.google.com/file/d/1q0o4LLZf01sJOBLiLDTHwTlrIl4aKvtK/view?usp=sharing)
 
 ## Author
 * **Wong Yi Pin** — Artificial Intelligence Undergraduate, Xiamen University Malaysia (XMUM)
